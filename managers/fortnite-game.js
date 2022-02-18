@@ -37,8 +37,8 @@ module.exports = (app, port) => {
                         "hidden": false,
                         "_type": "CommonUI Simple Message Base",
                         "subgame": "br",
-                        "body": "USE CODE MMDD OR DF",
-                        "title": "NOTE:",
+                        "body": "Made by kemo (@xkem0x).\r\nDiscord: https://discord.gg/DJ6VUmD",
+                        "title": "Neonite V2",
                         "spotlight": false
                     },
                     ],
@@ -62,8 +62,8 @@ module.exports = (app, port) => {
                         {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "ملاحظة: لا تغير أي ملفات/NOTE: don't change any files",
-                            "body": "DM: BF8#2540 AND USE CODE MMDD #AD",
+                            "title": "youtube",
+                            "body": "MAD",
                         }
                     ]
                 },

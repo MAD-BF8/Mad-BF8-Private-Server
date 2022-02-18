@@ -140,7 +140,7 @@ module.exports = (app) => {
 			req.query.accountId.forEach(accId => {
 				response.push([{
 					id: accId,
-					displayName: accId.startsWith("MAD BOT") ? "MAD BOT" : accId,
+					displayName: accId.startsWith("NeoniteBot") ? "NeoniteBot" : accId,
 					externalAuths: {}
 				}])
 			})
@@ -149,7 +149,7 @@ module.exports = (app) => {
 		catch {
 			res.json([{
 				id: req.query.accountId,
-				displayName: req.query.accountId.startsWith("MAD BOT") ? "MAD BOT" : req.query.accountId,
+				displayName: req.query.accountId.startsWith("NeoniteBot") ? "NeoniteBot" : req.query.accountId,
 				externalAuths: {}
 			}])
 		}

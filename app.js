@@ -1,27 +1,3 @@
-const { Client } = require("discord-rpc")
-const rpc = new Client({
-    transport: "ipc"
-})
-rpc.on("ready", () =>{
-    rpc.setActivity({
-        details: "BY: Mad#7579 & BF8#2540",
-        state: "Level 999 & Lobby Bot And More.",
-        startTimestamp: new Date(),
-        largeImageKey: "m",
-        largeImageText: "كل شيء في",
-		joinSecret: "MTI4NzM0OjFpMmhuZToxMjMxMjM",
-		smallImageKey: "b",
-		smallImageText: "BF8"
-		
-    })
-});
-rpc.login({
-    clientId: "941705651770523688"
-})
-
-
-
-
 const NeoLog = require('./structs/NeoLog')
 
 try {

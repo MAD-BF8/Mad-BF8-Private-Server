@@ -296,7 +296,7 @@ wss.on("connection", ws => {
                     Profile.bumpRvn(profiledata);
 
                     profiledata.items[uuid.v4()] = {
-                        "templateId": "GiftBox:GB_Twitch",
+                        "templateId": "GiftBox:GB_Default",
                         "attributes": {
                             "max_level_bonus": 0,
                             "fromAccountId": "MAD-BOT",
@@ -368,7 +368,7 @@ wss.on("connection", ws => {
                                 // console.log(body[0])
 
                                 profiledata.items[uuid.v4()] = {
-                                    "templateId": "GiftBox:GB_Twitch",
+                                    "templateId": "GiftBox:GB_Default",
                                     "attributes": {
                                         "max_level_bonus": 0,
                                         "fromAccountId": "MAD-BOT",
@@ -484,7 +484,7 @@ wss.on("connection", ws => {
                     .att('xmlns', "jabber:client")
                     .ele("status").txt(JSON.stringify(
                         {
-                            "Status": "BF8 Lobby Bot",
+                            "Status": "BF8&MAD Lobby Bot",
                             "bIsPlaying": false,
                             "bIsJoinable": true,
                             "bHasVoiceSupport": false,
