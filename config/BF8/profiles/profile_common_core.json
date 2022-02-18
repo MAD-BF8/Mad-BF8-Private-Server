@@ -1,25 +1,39 @@
 {
-  "_id": "BF8",
-  "created": "2022-02-12T10:31:30.861Z",
-  "updated": "2022-02-16T13:44:00.772Z",
-  "rvn": 78,
+  "created": "",
+  "updated": "2022-02-17T14:33:05.496Z",
+  "rvn": 15,
   "wipeNumber": 1,
-  "accountId": "BF8",
+  "accountId": "",
   "profileId": "common_core",
-  "version": "neonite_2",
+  "version": "grant_new_banner_colors_october_2019",
   "items": {
-    "Currency:MtxPurchased": {
+    "Currency": {
+      "templateId": "Currency:MtxPurchased",
       "attributes": {
         "platform": "EpicPC"
       },
-      "quantity": 0,
-      "templateId": "Currency:MtxPurchased"
+      "quantity": 1000000
     },
-    "d262f4cd-932f-4afa-82eb-bc304a78c9a4": {
-      "templateId": "GiftBox:GB_YoutubePromo ",
+    "gifting": {
+      "templateId": "GiftBox:GB_Default",
       "attributes": {
         "max_level_bonus": 0,
-        "fromAccountId": "MAD",
+        "fromAccountId": "",
+        "lootList": [
+          {
+            "itemType": "AthenaBattleBus:BBID_BirthdayBus2nd",
+            "itemGuid": "AthenaBattleBus:BBID_BirthdayBus2nd",
+            "itemProfile": "athena",
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    "b4b28fd4-56bf-462d-93cf-ad47c87b0d4d": {
+      "templateId": "GiftBox:GB_Twitch",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "MAD-BOT",
         "lootList": [
           {
             "itemProfile": "athena",
@@ -31,7 +45,127 @@
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-12T11:05:18.762Z",
+        "giftedOn": "2022-02-17T14:04:47.481Z",
+        "params": {
+          "userMessage": "Thanks for using MAD-BOT"
+        },
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4a685e40-6bed-43a7-85f8-260aa96c7ee3": {
+      "templateId": "GiftBox:GB_Twitch",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "MAD-BOT",
+        "lootList": [
+          {
+            "itemProfile": "athena",
+            "itemType": "AthenaDance:EID_HotPink",
+            "itemGuid": "AthenaDance:EID_HotPink",
+            "quantity": 1
+          }
+        ],
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "giftedOn": "2022-02-17T14:05:45.711Z",
+        "params": {
+          "userMessage": "Thanks for using MAD-BOT"
+        },
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "1f4284e3-0398-464c-822a-aacbf9b87626": {
+      "templateId": "GiftBox:GB_Default",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "MAD-BOT",
+        "lootList": [
+          {
+            "itemProfile": "athena",
+            "itemType": "AthenaDance:EID_HotPink",
+            "itemGuid": "AthenaDance:EID_HotPink",
+            "quantity": 1
+          }
+        ],
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "giftedOn": "2022-02-17T14:12:24.813Z",
+        "params": {
+          "userMessage": "Thanks for using MAD-BOT"
+        },
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6be48272-619a-4545-a560-2f4fd3912684": {
+      "templateId": "GiftBox:GB_Default",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "MAD-BOT",
+        "lootList": [
+          {
+            "itemProfile": "athena",
+            "itemType": "AthenaDance:EID_HotPink",
+            "itemGuid": "AthenaDance:EID_HotPink",
+            "quantity": 1
+          }
+        ],
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "giftedOn": "2022-02-17T14:12:36.092Z",
+        "params": {
+          "userMessage": "Thanks for using MAD-BOT"
+        },
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "38d9add9-5348-41a4-b456-2c6ad6b6f735": {
+      "templateId": "GiftBox:GB_Default",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "MAD-BOT",
+        "lootList": [
+          {
+            "itemProfile": "athena",
+            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
+            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
+            "quantity": 1
+          }
+        ],
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "giftedOn": "2022-02-17T14:14:22.739Z",
+        "params": {
+          "userMessage": "Thanks for using MAD-BOT"
+        },
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "6742f692-657c-48c3-a681-c2f415acf766": {
+      "templateId": "GiftBox:GB_GiftWrap1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "fromAccountId": "NeoniteBot",
+        "lootList": [
+          {
+            "itemProfile": "athena",
+            "itemType": "AthenaDance:EID_HotPink",
+            "itemGuid": "AthenaDance:EID_HotPink",
+            "quantity": 1
+          }
+        ],
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "giftedOn": "2022-02-17T14:23:44.337Z",
         "params": {
           "userMessage": "Thanks for using Neonite"
         },
@@ -39,11 +173,11 @@
       },
       "quantity": 1
     },
-    "1b24f7b9-0596-463d-8f0a-1fca7f19f84b": {
-      "templateId": "GiftBox:GB_YoutubePromo ",
+    "1a2fec76-5912-4a83-9f96-3cac2a1e20c8": {
+      "templateId": "GiftBox:GB_GiftWrap1",
       "attributes": {
         "max_level_bonus": 0,
-        "fromAccountId": "MAD",
+        "fromAccountId": "NeoniteBot",
         "lootList": [
           {
             "itemProfile": "athena",
@@ -55,7 +189,7 @@
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-12T11:05:44.059Z",
+        "giftedOn": "2022-02-17T14:24:05.548Z",
         "params": {
           "userMessage": "Thanks for using Neonite"
         },
@@ -63,23 +197,23 @@
       },
       "quantity": 1
     },
-    "bba6a495-5729-4abc-b3f1-a7baf6224a04": {
-      "templateId": "GiftBox:GB_YoutubePromo ",
+    "5f322fc2-1385-47f5-91f1-f99b2daf1485": {
+      "templateId": "GiftBox:GB_GiftWrap1",
       "attributes": {
         "max_level_bonus": 0,
-        "fromAccountId": "MAD",
+        "fromAccountId": "NeoniteBot",
         "lootList": [
           {
             "itemProfile": "athena",
-            "itemType": "AthenaCharacter:CID_A_334_Athena_Commando_M_Sleek_U06KF",
-            "itemGuid": "AthenaCharacter:CID_A_334_Athena_Commando_M_Sleek_U06KF",
+            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
+            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
             "quantity": 1
           }
         ],
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-12T11:06:28.002Z",
+        "giftedOn": "2022-02-17T14:24:14.993Z",
         "params": {
           "userMessage": "Thanks for using Neonite"
         },
@@ -87,11 +221,11 @@
       },
       "quantity": 1
     },
-    "134de3af-36d9-4401-8adb-21b1d4acefe4": {
-      "templateId": "GiftBox:GB_YoutubePromo ",
+    "29ef45ab-e237-4230-b2fd-16bdb8338ef5": {
+      "templateId": "GiftBox:GB_GiftWrap1",
       "attributes": {
         "max_level_bonus": 0,
-        "fromAccountId": "MAD",
+        "fromAccountId": "NeoniteBot",
         "lootList": [
           {
             "itemProfile": "athena",
@@ -103,7 +237,7 @@
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-12T11:07:43.822Z",
+        "giftedOn": "2022-02-17T14:24:32.517Z",
         "params": {
           "userMessage": "Thanks for using Neonite"
         },
@@ -111,247 +245,31 @@
       },
       "quantity": 1
     },
-    "fad300cc-25ea-40ee-a25a-4205f18081d1": {
-      "templateId": "GiftBox:GB_BanAssist",
+    "c6ba6c4d-878f-42dc-970f-f3c07f21b078": {
+      "templateId": "GiftBox:GB_GiftWrap1",
       "attributes": {
         "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
+        "fromAccountId": "NeoniteBot",
         "lootList": [
           {
             "itemProfile": "athena",
             "itemType": "AthenaDance:EID_HotPink",
             "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-12T12:05:28.371Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "cea6194e-6090-412e-a97e-f7c5d502409f": {
-      "templateId": "GiftBox:GB_BanAssist",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-12T12:05:36.851Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "8a17b15a-7a98-42a3-9ae1-c42751bdf4b2": {
-      "templateId": "GiftBox:GB_BanAssist",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaPickaxe:Pickaxe_ID_046_Candy",
-            "itemGuid": "AthenaPickaxe:Pickaxe_ID_046_Candy",
             "quantity": 1
           }
         ],
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-12T12:05:48.105Z",
+        "giftedOn": "2022-02-17T14:24:45.449Z",
         "params": {
-          "userMessage": "Thanks for using bF8"
+          "userMessage": "Thanks for using Neonite"
         },
         "favorite": false
       },
       "quantity": 1
     },
-    "9c11e696-37d2-496d-846d-c3c7eb48c2f0": {
-      "templateId": "GiftBox:GB_BanAssist",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-12T12:08:18.515Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "88ae0fd6-4bb5-4a17-8bbf-8f3ab7a47247": {
-      "templateId": "GiftBox:GB_BanAssist",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-13T15:18:16.520Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "adefc9e0-b22d-4131-ad94-960097a4cbf3": {
-      "templateId": "GiftBox:={GIFT}",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-14T13:11:42.725Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "5a32497d-862d-42de-9c96-e1cec1e1f3b9": {
-      "templateId": "GiftBox:={GIFT}",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-14T13:11:54.129Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "caa8724e-1fd4-4e9d-84a3-8f9ba2d96c76": {
-      "templateId": "GiftBox:={GIFT}",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-14T13:12:02.226Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "84c095c4-15dd-434b-86f6-b2cb6618024e": {
-      "templateId": "GiftBox={GIFT}",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-14T13:21:59.980Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "3b121a67-82dd-4435-873b-72400499188a": {
-      "templateId": "GiftBox={GIFT}",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "Madbot",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 50,
-        "giftedOn": "2022-02-14T13:22:21.968Z",
-        "params": {
-          "userMessage": "Thanks for using MAD "
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "90773985-1c96-4e3f-a095-a1d34cbf75f6": {
+    "ecb721c6-e6c9-40f3-8273-f908f4fd4dc6": {
       "templateId": "GiftBox:GB_Twitch",
       "attributes": {
         "max_level_bonus": 0,
@@ -367,7 +285,7 @@
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-14T16:11:19.518Z",
+        "giftedOn": "2022-02-17T14:32:49.543Z",
         "params": {
           "userMessage": "Thanks for using MAD-BOT"
         },
@@ -375,7 +293,7 @@
       },
       "quantity": 1
     },
-    "9f4594a6-b53c-4bbe-aafd-53128a36cdb8": {
+    "3b0449e5-9b92-4a5f-be8a-241586501f4a": {
       "templateId": "GiftBox:GB_Twitch",
       "attributes": {
         "max_level_bonus": 0,
@@ -391,103 +309,7 @@
         "level": 1,
         "item_seen": false,
         "xp": 0,
-        "giftedOn": "2022-02-14T16:11:31.612Z",
-        "params": {
-          "userMessage": "Thanks for using MAD-BOT"
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "512b35db-20dc-49d9-9730-a29121fc7260": {
-      "templateId": "GiftBox:GB_Twitch",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "MAD-BOT",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "itemGuid": "AthenaCharacter:CID_610_Athena_Commando_M_ShiitakeShaolin",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 0,
-        "giftedOn": "2022-02-14T16:12:01.520Z",
-        "params": {
-          "userMessage": "Thanks for using MAD-BOT"
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "d2e71671-63eb-4c21-81cc-567b657c3ce1": {
-      "templateId": "GiftBox:GB_Twitch",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "MAD-BOT",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 0,
-        "giftedOn": "2022-02-14T16:12:11.861Z",
-        "params": {
-          "userMessage": "Thanks for using MAD-BOT"
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "4ebba6d4-e06c-4a40-a95c-15df2da7aaec": {
-      "templateId": "GiftBox:GB_Twitch",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "MAD-BOT",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 0,
-        "giftedOn": "2022-02-15T14:03:25.954Z",
-        "params": {
-          "userMessage": "Thanks for using MAD-BOT"
-        },
-        "favorite": false
-      },
-      "quantity": 1
-    },
-    "d5f3a94c-c550-46fe-8fec-da3a8901a0e9": {
-      "templateId": "GiftBox:GB_Twitch",
-      "attributes": {
-        "max_level_bonus": 0,
-        "fromAccountId": "MAD-BOT",
-        "lootList": [
-          {
-            "itemProfile": "athena",
-            "itemType": "AthenaDance:EID_HotPink",
-            "itemGuid": "AthenaDance:EID_HotPink",
-            "quantity": 1
-          }
-        ],
-        "level": 1,
-        "item_seen": false,
-        "xp": 0,
-        "giftedOn": "2022-02-16T13:44:01.265Z",
+        "giftedOn": "2022-02-17T14:33:05.933Z",
         "params": {
           "userMessage": "Thanks for using MAD-BOT"
         },
@@ -498,11 +320,28 @@
   },
   "stats": {
     "attributes": {
-      "mtx_affiliate": "Neonite",
-      "current_mtx_platform": "EpicPC",
+      "survey_data": {},
+      "personal_offers": {},
+      "intro_game_played": true,
+      "import_friends_claimed": {},
       "mtx_purchase_history": {},
-      "allowed_to_receive_gifts": true
+      "undo_cooldowns": [],
+      "mtx_affiliate_set_time": "2019-10-10T11:02:58.073Z",
+      "inventory_limit_bonus": 0,
+      "current_mtx_platform": "EpicPC",
+      "mtx_affiliate": "kemo",
+      "weekly_purchases": {},
+      "daily_purchases": {},
+      "ban_history": {},
+      "in_app_purchases": {},
+      "permissions": [],
+      "undo_timeout": "min",
+      "monthly_purchases": {},
+      "allowed_to_send_gifts": true,
+      "mfa_enabled": false,
+      "allowed_to_receive_gifts": true,
+      "gift_history": {}
     }
   },
-  "commandRevision": 78
+  "commandRevision": 14
 }
