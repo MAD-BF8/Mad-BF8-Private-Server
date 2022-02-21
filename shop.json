@@ -460,10 +460,10 @@
                   "title": "Glow",
                   "shortDescription": "",
                   "description": "The aura of victory glows bright.",
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_479_Athena_Commando_F_Davinci.DA_Featured_CID_479_Athena_Commando_F_Davinci",
+                  "displayAssetPath": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_Floss",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaCharacter:cid_479_athena_commando_f_davinci",
+                          "templateId": "AthenaCharacter:EID_Floss",
                           "quantity": 1
                       }
                   ],
@@ -2780,7 +2780,7 @@
                               "discountedPrice": 1200,
                               "alreadyOwnedPriceReduction": 1200,
                               "item": {
-                                  "templateId": "AthenaCharacter:cid_359_athena_commando_f_aztec",
+                                  "templateId": "AthenaCharacter:CID_030_Athena_Commando_M_Halloween ",
                                   "quantity": 1
                               }
                           },
@@ -2790,17 +2790,17 @@
                               "discountedPrice": 0,
                               "alreadyOwnedPriceReduction": 0,
                               "item": {
-                                  "templateId": "AthenaBackpack:bid_222_aztecfemale",
+                                  "templateId": "AthenaBackpack:BID_393_GhoulTrooper",
                                   "quantity": 1
                               }
                           },
                           {
                               "bCanOwnMultiple": false,
-                              "regularPrice": 800,
-                              "discountedPrice": 800,
-                              "alreadyOwnedPriceReduction": 800,
+                              "regularPrice": 999,
+                              "discountedPrice": 999,
+                              "alreadyOwnedPriceReduction": 999,
                               "item": {
-                                  "templateId": "AthenaGlider:glider_id_127_aztec",
+                                  "templateId": "AthenaGlider:Glider_Warthog ",
                                   "quantity": 1
                               }
                           },
@@ -4977,7 +4977,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaCharacter:cid_414_athena_commando_f_militaryfashion",
+                          "requiredId": "AthenaCharacter:CID_028_Athena_Commando_F",
                           "minQuantity": 1
                       }
                   ],
@@ -5010,7 +5010,7 @@
                   "displayAssetPath": "None",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaCharacter:cid_414_athena_commando_f_militaryfashion",
+                          "templateId": "AthenaCharacter:CID_028_Athena_Commando_F",
                           "quantity": 1
                       }
                   ],
@@ -5113,7 +5113,7 @@
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_HilowWave.DAv2_EID_HilowWave",
+                      "NewDisplayAssetPath": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BeHere_8070H",
                       "SectionId": "Daily",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "9"
@@ -5124,7 +5124,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaDance:eid_hilowwave",
+                          "requiredId": "AthenaDance:EID_BeHere_8070H ",
                           "minQuantity": 1
                       }
                   ],
@@ -5139,7 +5139,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_HilowWave.DAv2_EID_HilowWave"
+                          "value": "FortniteGame/Content/Athena/Items/Cosmetics/Dances/EID_BeHere_8070H"
                       },
                       {
                           "key": "SectionId",
@@ -5156,7 +5156,7 @@
                   ],
                   "itemGrants": [
                       {
-                          "templateId": "AthenaDance:eid_hilowwave",
+                          "templateId": "AthenaDance:EID_BeHere_8070H ",
                           "quantity": 1
                       }
                   ],
@@ -5178,15 +5178,15 @@
                       {
                           "currencyType": "MtxCurrency",
                           "currencySubType": "",
-                          "regularPrice": 200,
-                          "dynamicRegularPrice": 200,
-                          "finalPrice": 200,
+                          "regularPrice": 999,
+                          "dynamicRegularPrice": 999,
+                          "finalPrice": 999,
                           "saleExpiration": "9999-12-31T23:59:59.999Z",
-                          "basePrice": 200
+                          "basePrice": 999
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_Applause.DAv2_EID_Applause",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_BeHere_8070H.DAv2_EID_BeHere_8070H",
                       "SectionId": "Daily",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "7",
@@ -5198,7 +5198,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaDance:eid_applause",
+                          "requiredId": "AthenaDance:EID_BeHere_8070H",
                           "minQuantity": 1
                       }
                   ],
@@ -5213,7 +5213,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_Applause.DAv2_EID_Applause"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_BeHere_8070H.DAv2_EID_BeHere_8070H"
                       },
                       {
                           "key": "SectionId",
@@ -5234,7 +5234,7 @@
                   ],
                   "itemGrants": [
                       {
-                          "templateId": "AthenaDance:eid_applause",
+                          "templateId": "AthenaDance:EID_BeHere_8070H",
                           "quantity": 1
                       }
                   ],

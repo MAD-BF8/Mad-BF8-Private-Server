@@ -1,4 +1,4 @@
 @echo off
-title NeoniteV2
+title USE CODE MMDD
 node app.js
 cmd /k
