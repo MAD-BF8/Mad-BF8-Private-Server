@@ -5335,7 +5335,7 @@
                       },
                       {
                           "Key": "CurrencyAnalyticsName",
-                          "Value": "Season18_StarterKit"
+                          "Value": "Season19_StarterKit"
                       }
                   ],
                   "catalogGroup": "",
@@ -9258,11 +9258,11 @@
           ]
       },
       {
-          "name": "BRSeason18",
+          "name": "BRSeason19",
           "catalogEntries": [
               {
                   "offerId": "A3C3EBCAE56E4B9C979806EF53EBD990",
-                  "devName": "BR.Season18.SingleTier.01",
+                  "devName": "BR.Season19.SingleTier.01",
                   "offerType": "StaticPrice",
                   "prices": [
                       {
@@ -9312,7 +9312,7 @@
               },
               {
                   "offerId": "E1973F8643274A8FA14E26ABBEAE6C80",
-                  "devName": "BR.Season18.BattleBundle.01",
+                  "devName": "BR.Season19.BattleBundle.01",
                   "offerType": "StaticPrice",
                   "prices": [
                       {
@@ -9371,7 +9371,7 @@
                       },
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_BR_Season18_BattlePass.DAv2_BR_Season18_BattlePass"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_BR_Season19_BattlePass.DAv2_BR_Season19_BattlePass"
                       }
                   ],
                   "catalogGroup": "",
@@ -9380,12 +9380,12 @@
                   "title": "Battle Bundle",
                   "shortDescription": "Battle Pass + 25 levels!",
                   "description": "Chapter 2 - Season 8 through ???",
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season18_BattlePassWithLevels.DA_BR_Season18_BattlePassWithLevels",
+                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season19_BattlePassWithLevels.DA_BR_Season19_BattlePassWithLevels",
                   "itemGrants": []
               },
               {
                   "offerId": "68A96C064DA259A03856CBA318673A94",
-                  "devName": "BR.Season18.BattlePassGift.01",
+                  "devName": "BR.Season19.BattlePassGift.01",
                   "offerType": "StaticPrice",
                   "prices": [
                       {
@@ -9444,7 +9444,7 @@
                   "title": "Battle Pass",
                   "shortDescription": "Season 18",
                   "description": "Season 18",
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season18_BattlePass.DA_BR_Season18_BattlePass",
+                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season19_BattlePass.DA_BR_Season19_BattlePass",
                   "itemGrants": [],
                   "giftInfo": {
                       "bIsEnabled": true,
@@ -9454,7 +9454,7 @@
               },
               {
                   "offerId": "FBD0E4724AD2CC10A0822AAC64DD9938",
-                  "devName": "BR.Season18.BP25Levels.01",
+                  "devName": "BR.Season19.BP25Levels.01",
                   "offerType": "StaticPrice",
                   "prices": [
                       {
@@ -9539,7 +9539,7 @@
                       },
                       {
                           "key": "InstanceId",
-                          "value": "Season18_25lvl"
+                          "value": "Season19_25lvl"
                       },
                       {
                           "key": "NewDisplayAssetPath",
@@ -9557,7 +9557,7 @@
               },
               {
                   "offerId": "A7977361446003B22ABFB2BED258C19C",
-                  "devName": "BR.Season18.BattlePass.01",
+                  "devName": "BR.Season19.BattlePass.01",
                   "offerType": "StaticPrice",
                   "prices": [
                       {
@@ -9619,7 +9619,7 @@
                       },
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_BR_Season18_BattlePass.DAv2_BR_Season18_BattlePass"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_BR_Season19_BattlePass.DAv2_BR_Season19_BattlePass"
                       },
                       {
                           "key": "ShouldShowBattlePassPurchase",
@@ -9632,7 +9632,7 @@
                   "title": "Battle Pass",
                   "shortDescription": "Chapter 2 - Season 8",
                   "description": "Chapter 2 - Season 8 through ???",
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season18_BattlePass.DA_BR_Season18_BattlePass",
+                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_BR_Season19_BattlePass.DA_BR_Season19_BattlePass",
                   "itemGrants": []
               }
           ]

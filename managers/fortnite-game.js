@@ -62,8 +62,8 @@ module.exports = (app, port) => {
                         {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "youtube",
-                            "body": "MAD",
+                            "title": "IF YOU NEED HELP/إذا كنت بحاجة إلى مساعدة",
+                            "body": "JOIN OUR DISCORD discord.gg/mmdd",
                         }
                     ]
                 },
