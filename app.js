@@ -1,4 +1,4 @@
-const NeoLog = require('./structs/NeoLog')
+const NeoLog = require('./structs/NeoLog') 
 
 try {
 	var cookieParser = require("cookie-parser");
