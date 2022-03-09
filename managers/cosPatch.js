@@ -78,7 +78,7 @@ module.exports = (app) => {
             fs.mkdirSync(`./config/${accountId}/profiles`, { recursive: true });
         }
 
-        const data = (await axios.get("https://fortnite-api.com/v2/cosmetics/br")).data;
+        const data = (await axios.get("https://fortnite-api.com/v2/cosmetics/br?pak=1004")).data;
         
         for (cosmetic of data.data) {
             const item = {
